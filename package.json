@@ -1,0 +1,19 @@
+{
+  "name": "configwebpack4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/minh_tan_nguyen/configWebPack4.git"
+  },
+  "author": "MinhTan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/minh_tan_nguyen/configWebPack4/issues"
+  },
+  "homepage": "https://gitlab.com/minh_tan_nguyen/configWebPack4#README"
+}
