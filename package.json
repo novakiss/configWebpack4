@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://gitlab.com/minh_tan_nguyen/configWebPack4/issues"
   },
-  "homepage": "https://gitlab.com/minh_tan_nguyen/configWebPack4#README"
+  "homepage": "https://gitlab.com/minh_tan_nguyen/configWebPack4#README",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-react": "^6.24.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  }
 }
